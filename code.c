@@ -7,3 +7,4 @@ seis
 siete
 ocho
 nueve & bederatzi
+diez & hamar
