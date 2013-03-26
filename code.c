@@ -6,4 +6,4 @@ cinco
 seis
 siete
 ocho
-nueve
+nueve & bederatzi
